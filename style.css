@@ -27,7 +27,7 @@ body {
 
 header{
    text-align: center;
-   text-shadow: 2px 2px 4px black;
+   text-shadow: 2px 2px epx #003e5c;
    
 }
 
@@ -66,7 +66,7 @@ p{
    background-color: #316f93;
    border-radius: 2px;
    padding: 3px 3px 3px 4px;
-   transition-duration:.5s;
+   transition-duration:.3s;
 }
 
 h1, h2, h3{
