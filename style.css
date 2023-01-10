@@ -44,6 +44,7 @@ p{
  text-indent:20px;
  color: black;
  padding: 15px 5px;
+ 
 }
 
 .menu{
@@ -52,7 +53,7 @@ p{
 
 .menu>a{
    padding:0 4px 2px 1px;
-   font-size: 0.7em;
+   font-size: 1em;
    background-image: none;
    color: white;
    text-decoration: none;
